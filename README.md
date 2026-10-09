@@ -43,4 +43,4 @@ Microsoft Power BI | Power Query | DAX
 
 6. Screenshots / Demos
 Show what the dashboard looks like.
-Example : 
+Example : ![Dashboard preview](https://github.com/gezali/Prism-Insurance-Dashboard/blob/main/Prism%20Insurance%20DashBoard%20Visuals.png)
